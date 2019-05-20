@@ -1,0 +1,4 @@
+void testfuncition()
+{
+	printf("testtest");
+}
