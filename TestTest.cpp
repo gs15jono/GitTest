@@ -1,4 +1,5 @@
-void testfuncition()
+﻿void testfuncition()
 {
 	printf("testtest");
+	printf("はろうわあるど")
 }
