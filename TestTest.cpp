@@ -1,5 +1,7 @@
 ﻿void testfuncition()
 {
 	printf("testtest");
-	printf("はろうわあるど")
+	printf("はろうわあるど");
+
+	printf("さよならせかい")
 }
